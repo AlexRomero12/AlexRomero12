@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋 Hola, soy Alexander Romero
 
-<!--
-**AlexRomero12/AlexRomero12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ Sobre mí
 
-Here are some ideas to get you started:
+Soy un desarrollador .NET con más de 3 años de experiencia trabajando en proyectos de software para diferentes industrias. Me encanta la programación y estoy siempre en busca de nuevos retos y aprendizajes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades técnicas
+
+* Lenguajes de programación: C#, VB.NET
+* Frameworks: .NET Framework, .NET Core, ASP.NET, Entity Framework
+* Bases de datos: SQL Server, MySQL
+* Herramientas de control de versiones: Git
+* Otros: HTML, CSS, JavaScript, jQuery
+
+## 🚀 Metodologías y herramientas
+
+* Metodologías ágiles: Scrum
+* Gestión de ramas: GitFlow
+* Plataforma de desarrollo: Azure DevOps
+
+## 📱 Contacto
+
+Si estás interesado en contactarme, puedes hacerlo a través de mi correo electrónico [brayan12r@gmail.com](mailto:brayan12r@gmail.com) o mi [perfil de LinkedIn](https://www.linkedin.com/in/alexander-romero-ch/).
+
+## 🌎 Idiomas
+
+* Español: nativo
+* Inglés: intermedio
